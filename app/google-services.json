@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "814748967506",
+    "firebase_url": "https://queuingapp-8ff2b.firebaseio.com",
+    "project_id": "queuingapp-8ff2b",
+    "storage_bucket": "queuingapp-8ff2b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:814748967506:android:97b2cba5fe67262a",
+        "android_client_info": {
+          "package_name": "edu.illinois.cs.cs125.spring2019.lab12"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "814748967506-s3b5pf5j2s37af456pd675umj5k54ngr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuN7HTpTJJeiORdUDxhinlQVQf1IMTzFg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "814748967506-s3b5pf5j2s37af456pd675umj5k54ngr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
